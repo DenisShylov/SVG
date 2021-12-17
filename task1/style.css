@@ -9,13 +9,13 @@
 }
 
 .column:first-child > .small-bird {
-  width: 64px;
-  height: 64px;
+  width: 64px !important;
+  height: 64px !important;
 }
 
 .column:first-child > .large-bird {
-  width: 320px;
-  height: 320px;
+  width: 320px !important;
+  height: 320px !important;
 }
 
 .column:last-child > .small-bird {
