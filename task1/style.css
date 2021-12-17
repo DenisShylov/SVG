@@ -8,20 +8,20 @@
   flex: 1;
 }
 
-.row:first-child > .column > .small-bird {
-  width: 64px;
-  height: 64px;
+.column:first-child > .small-bird {
+  width: 64px !important;
+  height: 64px !important;
 }
 
-.row:first-child > .column > .large-bird {
-  width: 320px;
-  height: 320px;
+.column:first-child > .large-bird {
+  width: 320px !important;
+  height: 320px !important;
 }
-.column:nth-child(1) > .small-bird {
+.column:last-child > .small-bird {
   width: 64px;
   height: 64px;
 }
-.column:nth-child(1) > .large-bird {
+.column:last-child > .large-bird {
   width: 320px;
   height: 320px;
 }
