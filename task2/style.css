@@ -10,7 +10,7 @@
   font-family: 'Courier New', Courier, monospace;
   font-weight: 700;
   cursor: pointer;
-  align-items: center;
+  /* align-items: center; */
 }
 .custom-button:first-child:hover {
   color: darkcyan;
