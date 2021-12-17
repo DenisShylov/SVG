@@ -9,19 +9,19 @@
 }
 
 .column:first-child > .small-bird {
-  width: 64px !important;
-  height: 64px !important;
+  width: 64px;
+  height: 64px;
 }
 
 .column:first-child > .large-bird {
-  width: 320px !important;
-  height: 320px !important;
+  width: 320px;
+  height: 320px;
 }
-.column:last-child > .small-bird {
+/* .column:last-child > .small-bird {
   width: 64px;
   height: 64px;
 }
 .column:last-child > .large-bird {
   width: 320px;
   height: 320px;
-}
+} */
