@@ -8,20 +8,20 @@
   flex: 1;
 }
 
-.row:first-child .small-bird {
+div:first-child .small-bird {
   width: 64px;
   height: 64px;
 }
 
-.row:first-child .large-bird {
+div:first-child .large-bird {
   width: 320px;
   height: 320px;
 }
-.row:last-child .small-bird {
+div:last-child .small-bird {
   width: 64px;
   height: 64px;
 }
-.row:last-child .large-bird {
+div:last-child .large-bird {
   width: 320px;
   height: 320px;
 }
