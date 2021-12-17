@@ -7,19 +7,14 @@
   align-items: center;
   flex: 1;
 }
-.column:first-child > .small-bird {
+.small-bird-png,
+.small-bird {
   width: 64px;
   height: 64px;
 }
-.column:last-child > .small-bird {
-  width: 64px;
-  height: 64px;
-}
-.column:first-child > .large-bird {
-  width: 320px;
-  height: 320px;
-}
-.column:last-child > .large-bird {
+
+.large-bird-png,
+.large-bird {
   width: 320px;
   height: 320px;
 }
