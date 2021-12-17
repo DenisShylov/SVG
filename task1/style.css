@@ -8,20 +8,20 @@
   flex: 1;
 }
 
-.column:first-child > .small-bird {
+.row:first-child .small-bird {
   width: 64px;
   height: 64px;
 }
 
-.column:first-child > .large-bird {
+.row:first-child .large-bird {
   width: 320px;
   height: 320px;
 }
-/* .column:last-child > .small-bird {
+.row:last-child .small-bird {
   width: 64px;
   height: 64px;
 }
-.column:last-child > .large-bird {
+.row:last-child .large-bird {
   width: 320px;
   height: 320px;
-} */
+}
